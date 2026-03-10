@@ -1,0 +1,7 @@
+xformers==0.0.20
+pillow==9.5.0
+wandb
+torch==2.0.1
+torchvision
+openmim
+## mim install mmcv-full==1.7.i0

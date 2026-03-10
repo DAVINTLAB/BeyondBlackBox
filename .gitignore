@@ -1,0 +1,14 @@
+*.pyc
+*.so
+*.zip
+*.json
+
+scripts/
+output/
+build/
+envs/*
+samples/*
+weights/*
+
+!.gitkeep
+

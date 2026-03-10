@@ -1,0 +1,9 @@
+
+torch
+torchvision
+openmim
+numpy==1.26.4
+
+## mim install mmengine
+## mim install "mmcv>=2.0.1" 
+## mim install "mmpose>=1.0.1"
